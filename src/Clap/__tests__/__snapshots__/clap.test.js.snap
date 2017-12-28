@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clap increases the count when button is clicked 1`] = `
+<div>
+  <button>
+    Count up!!
+  </button>
+  <button>
+    Coutn down!!
+  </button>
+  <p>
+    0
+  </p>
+</div>
+`;
